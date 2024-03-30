@@ -180,4 +180,17 @@ footer .social-links a {
     text-align: center;
     padding: 0;
   }
+
+  .myphoto {
+    width: 200px;
+  }
+}
+
+@media (max-width: 1500px) {
+  .btn-branding,
+  .btn-branding-outline,
+  .btn-branding-contact {
+    margin-left: 0px;
+    margin-bottom: 50px;
+  }
 }
